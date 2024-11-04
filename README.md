@@ -3,6 +3,10 @@ Linkify addresses this need through an innovative web-based platform that connec
 
 Key Features
 Transparent Review System: Users can rely on verified reviews from their community to make informed decisions.
+
 Advanced Search Capabilities: Easily search for providers based on service type, location, and rating.
+
 Real-Time Booking: Book appointments directly through the platform for a streamlined experience.
+
 Community-Focused Model: Emphasizes trust-building by leveraging community feedback, fostering a sense of local support
+
